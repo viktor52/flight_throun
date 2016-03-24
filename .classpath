@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.osgi_3.10.102.v20160118-1700.jar" sourcepath="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.osgi_3.10.102.v20160118-1700.jar"/>
 	<classpathentry kind="lib" path="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.core.commands_3.7.0.v20150422-0725.jar" sourcepath="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.core.commands_3.7.0.v20150422-0725.jar"/>
@@ -15,24 +14,5 @@
 	<classpathentry kind="lib" path="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.ui.workbench_3.107.1.v20160120-2131.jar" sourcepath="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.ui.workbench_3.107.1.v20160120-2131.jar"/>
 	<classpathentry kind="lib" path="/Applications/Eclipse.app/Contents/Eclipse/plugins/com.ibm.icu_54.1.1.v201501272100.jar" sourcepath="/Applications/Eclipse.app/Contents/Eclipse/plugins/com.ibm.icu_54.1.1.v201501272100.jar"/>
 	<classpathentry kind="lib" path="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.ui.forms_3.6.200.v20150506-2029.jar" sourcepath="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.ui.forms_3.6.200.v20150506-2029.jar"/>
-=======
-	<classpathentry kind="src" path="test"/>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.osgi_3.10.2.v20150203-1939.jar" sourcepath="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.osgi_3.10.2.v20150203-1939.jar"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.core.commands_3.6.100.v20140528-1422.jar" sourcepath="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.core.commands_3.6.100.v20140528-1422.jar"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar" sourcepath="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.equinox.common_3.6.200.v20130402-1505.jar"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.equinox.registry_3.5.400.v20140428-1507.jar" sourcepath="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.equinox.registry_3.5.400.v20140428-1507.jar"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.core.runtime_3.10.0.v20140318-2214.jar" sourcepath="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.core.runtime_3.10.0.v20140318-2214.jar"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.text_3.5.300.v20130515-1451.jar" sourcepath="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.text_3.5.300.v20130515-1451.jar"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.swt.cocoa.macosx.x86_64_3.103.2.v20150203-1351.jar" sourcepath="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.swt.cocoa.macosx.x86_64_3.103.2.v20150203-1351.jar"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.jface_3.10.2.v20141021-1035.jar" sourcepath="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.jface_3.10.2.v20141021-1035.jar"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.jface.text_3.9.2.v20141003-1326.jar" sourcepath="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.jface.text_3.9.2.v20141003-1326.jar"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar" sourcepath="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.ui.workbench_3.106.2.v20150204-1030.jar"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/eclipse/plugins/com.ibm.icu_52.1.1.v201501240615.jar" sourcepath="/Users/viktor/Downloads/eclipse/plugins/com.ibm.icu_52.1.1.v201501240615.jar"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.ui.forms_3.6.100.v20140422-1825.jar" sourcepath="/Users/viktor/Downloads/eclipse/plugins/org.eclipse.ui.forms_3.6.100.v20140422-1825.jar"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/postgresql-9.4.1208.jre6.jar"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/junit-4.12.jar"/>
-	<classpathentry kind="lib" path="/Users/viktor/Downloads/hamcrest-core-1.3.jar"/>
->>>>>>> origin/master
 	<classpathentry kind="output" path="bin"/>
 </classpath>
